@@ -3,11 +3,15 @@ layout: page
 title: Education
 ---
 
+---
+
 ![](/assets/img/UCB.jpg)
 ### University of California, Berkeley 
 #### 08/2021~Present
 **MEng** in Transportation Engineering\
 ➢Department: Civil and Environmental Engineering
+
+---
 
 ---
 
@@ -26,6 +30,8 @@ title: Education
 
 ---
 
+---
+
 ![](/assets/img/FEFU.jpg)
 ### Far Eastern Federal University, RUSSIA
 #### 07/2018~08/2018
@@ -33,5 +39,9 @@ title: Education
 
 ---
 
+---
+
 ### More about my courses
 You can find my course code [here](https://github.com/Jerry-zpl/Course-code)
+
+---
