@@ -9,7 +9,7 @@ title: Education
 **MEng** in Transportation Engineering\
 ➢Department: Civil and Environmental Engineering
 
-
+---
 
 ![](/assets/img/HIT.jpeg)
 ### Harbin Institute of Technology, CHINA
@@ -24,14 +24,14 @@ title: Education
 ➢ Department: Management Science and Engineering\
 ➢ GPA: 87.36/100
 
-
+---
 
 ![](/assets/img/FEFU.jpg)
 ### Far Eastern Federal University, RUSSIA
 #### 07/2018~08/2018
 ➢ Exchange student in International Relations Department
 
-
+---
 
 ### More about my courses
 You can find my course code [here](https://github.com/Jerry-zpl/Course-code)
