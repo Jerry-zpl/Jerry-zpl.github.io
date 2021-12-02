@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![](/assets/img/graduation.jpg)
+![](/assets/img/DSC04332.JPG)
 
 My name is Peilin Zhao. I graduated from Harbin Institute of Technology, majoring in Transportation Equipment and Control Engineering and minoring in Big Data Management and Application. I'm now an MEng student in UC Berkeley majoring in Transportation Engineering. 
 
