@@ -3,13 +3,13 @@ layout: page
 title: Education
 ---
 
-![](https://github.com/Jerry-zpl/Jerry-zpl.github.io/blob/main/assets/img/UCB.jpg)
-### University of California, Berkeley                            08/2021~Present
+![](/assets/img/UCB.jpg)
+### University of California, Berkeley --- 08/2021~Present
 **MEng** in Transportation Engineering\
 ➢Department: Civil and Environmental Engineering
 
-![](https://github.com/Jerry-zpl/Jerry-zpl.github.io/blob/main/assets/img/HIT.jpeg)
-### Harbin Institute of Technology, CHINA                         08/2017~07/2021
+![](/assets/img/HIT.jpeg)
+### Harbin Institute of Technology, CHINA --- 08/2017~07/2021
 **Bachelor of Engineering** in Transportation Equipment and Control Engineering\
 ➢ School: Transportation Science and Engineering\
 ➢ Department: Traffic Information and Control Engineering\
@@ -20,8 +20,8 @@ title: Education
 ➢ Department: Management Science and Engineering\
 ➢ GPA: 87.36/100
 
-![](https://github.com/Jerry-zpl/Jerry-zpl.github.io/blob/main/assets/img/FEFU.jpg)
-### Far Eastern Federal University, RUSSIA                        07/2018~08/2018
+![](/assets/img/FEFU.jpg)
+### Far Eastern Federal University, RUSSIA --- 07/2018~08/2018
 ➢ Exchange student in International Relations Department
 
 ### More about my courses
