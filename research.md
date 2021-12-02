@@ -60,7 +60,7 @@ Tutor: Prof. Hua Wang, the director of Department of Traffic Information and Con
 ### Space Transportation Planning Based on Antigravity Cars and Nuclear Fusion Technology
 #### 09/2018~12/2018
 ➢ Envisaged the future transportation by incorporating anti-gravity propulsion system, from the aspects of transportation safety, structure, and auxiliary equipment.\
-➢ Proposed three-layer future transportation system concept: basic freight layer, public transport layer and private car layer.\
+➢ Proposed three-layer future transportation system concept: basic freight layer, public transport layer and private car layer.
 
 ---
 
