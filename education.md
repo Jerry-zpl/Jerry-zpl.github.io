@@ -23,3 +23,6 @@ title: Education
 ![]("https://github.com/Jerry-zpl/Jerry-zpl.github.io/blob/main/assets/img/FEFU.jpg")
 ### Far Eastern Federal University, RUSSIA                        07/2018~08/2018
 ➢ Exchange student in International Relations Department
+
+### More about my courses
+You can find my course code [here](https://github.com/Jerry-zpl/Course-code)
