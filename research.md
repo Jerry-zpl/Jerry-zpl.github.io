@@ -67,7 +67,7 @@ Tutor: Prof. Hua Wang, the director of Department of Traffic Information and Con
 ---
 
 ![](/assets/img/Research6.jpg)
-###Traffic Data Collection System Based on Floating Car
+### Traffic Data Collection System Based on Floating Car
 #### 09/2017~06/2018
 ➢ Developed a data collection system using Linux and Raspberry Pi Car to get transportation data flexibly in contrast to traditional data collection methods (like toroidal coil, speed measuring radar and ultrasonic detector).\
 ➢ Installed ultrasonic and optical sensors on a Raspberry Pi Car to collect data and assisted in all testing works.\
