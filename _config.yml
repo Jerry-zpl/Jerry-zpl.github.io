@@ -16,6 +16,7 @@ author: Peilin ZHAO 赵沛霖
 navbar-links:
   About Me: "aboutme"
   Education: "education"
+  Pubulications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
