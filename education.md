@@ -4,19 +4,19 @@ title: Education
 ---
 
 ### University of California, Berkeley                            08/2021~Present
-**MEng** in Transportation Engineering
-➢ Department: Civil and Environmental Engineering
+**MEng** in Transportation Engineering\
+➢Department: Civil and Environmental Engineering
 
 ### Harbin Institute of Technology, CHINA                         08/2017~07/2021
-**Bachelor of Engineering** in Transportation Equipment and Control Engineering
-➢ School: Transportation Science and Engineering
-➢ Department: Traffic Information and Control Engineering
-➢ Rank: Top of the department
-➢ GPA: 88.51/100
-**Bachelor of Management** minor in Big Data Management and Application
-➢ School: Management
-➢ Department: Management Science and Engineering
-➢ GPA: 87.36/100
+**Bachelor of Engineering** in Transportation Equipment and Control Engineering\
+➢ School: Transportation Science and Engineering\
+➢ Department: Traffic Information and Control Engineering\
+➢ Rank: Top of the department\
+➢ GPA: 88.51/100\
+**Bachelor of Management** minor in Big Data Management and Application\
+➢ School: Management\
+➢ Department: Management Science and Engineering\
+➢ GPA: 87.36/100\
 
 ### Far Eastern Federal University, RUSSIA                        07/2018~08/2018
-➢ Exchange student in International Relations Department
+➢ Exchange student in International Relations Department\
