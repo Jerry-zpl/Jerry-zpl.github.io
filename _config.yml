@@ -44,7 +44,7 @@ social-network-links:
   email: "Jerry_Business@outlook.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: "https://github.com/Jerry-zpl"
+  github: "github.com/Jerry-zpl"
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -88,10 +88,10 @@ social-network-links:
 #excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # Add a search button to the navbar
 post_search: true
