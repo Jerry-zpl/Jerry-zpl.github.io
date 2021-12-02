@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Education: "education"
   Pubulications: "publications"
+  Research Experience: "research"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
