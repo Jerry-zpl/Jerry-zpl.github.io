@@ -18,6 +18,7 @@ navbar-links:
   Education: "education"
   Pubulications: "publications"
   Research Experience: "research"
+  Working Experience: "working"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
