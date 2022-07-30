@@ -5,7 +5,7 @@ title: Transportation Engineering in my eyes
 
 ---
 
-![](/assets/img/Transportation Engineering 1.jpeg)
+![](/assets/img/TE1.jpeg)
 
 Getting myself involved in Transportation Engineering for almost 5 years (2017-2022), I'm here to share my feelings and experiences.\
  \
