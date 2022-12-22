@@ -5,7 +5,7 @@ title: About Me
 
 ---
 
-![](/assets/img/myself.jpg)
+![](/assets/img/personal.jpg)
 
 Nice to meet you! My name is Peilin Zhao, from Zhengzhou, China. I'm now a PhD student in Nanyang Technological University, focusing on the research about Mix Traffic Flow. 
 
