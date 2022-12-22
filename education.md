@@ -9,8 +9,8 @@ title: Education
 ### Nanyang Technological University 
 #### 08/2022~Present
 **PhD** in Civil and Environmental Engineering\
-➢School: Civil and Environmental Engineering
-➢Advisor: Zhu Feng(Assistant Professor), Wong Yiik Diew(Associate Professor & Associate Chair(Academy))
+➢School: Civil and Environmental Engineering\
+➢Advisor: [Zhu Feng](https://dr.ntu.edu.sg/cris/rp/rp00740)(Assistant Professor), [Wong Yiik Diew](https://dr.ntu.edu.sg/cris/rp/rp00667)(Associate Professor & Associate Chair(Academy))
 
 ---
 
@@ -20,7 +20,8 @@ title: Education
 ### University of California, Berkeley 
 #### 08/2021~05/2022
 **MEng** in Transportation Engineering\
-➢Department: Civil and Environmental Engineering
+➢Department: Civil and Environmental Engineering\
+➢Advisor: [Allen Y. Yang](https://people.eecs.berkeley.edu/~yang/)
 
 ---
 
