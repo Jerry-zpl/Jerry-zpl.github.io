@@ -10,7 +10,7 @@ title: Education
 #### 08/2022~Present
 **PhD** in Civil and Environmental Engineering\
 ➢School: Civil and Environmental Engineering\
-➢Advisor: [Zhu Feng](https://dr.ntu.edu.sg/cris/rp/rp00740)(Assistant Professor), [Wong Yiik Diew](https://dr.ntu.edu.sg/cris/rp/rp00667)(Associate Professor & Associate Chair(Academy))
+➢Advisor: [Zhu Feng](https://dr.ntu.edu.sg/cris/rp/rp00740)(Assistant Professor), [Wong Yiik Diew](https://dr.ntu.edu.sg/cris/rp/rp00667)(Associate Professor & Acting Associate Chair (Faculty))
 
 ---
 
