@@ -21,7 +21,7 @@ B.Mgt. (Minor) in Big Data Management and Application, [School of Management](ht
 
 Publications
 ======
-**Zhao, Peilin**, Yiik Diew Wong, and Feng Zhu. "Modeling the clustering strength of connected autonomous vehicles and its impact on mixed traffic capacity." Communications in Transportation Research 4 (2024): 100151. [Paper](https://doi.org/10.1016/j.commtr.2024.100151) | [Code](https://github.com/Jerry-zpl/API) | Project Brief
+**Zhao, Peilin**, Yiik Diew Wong, and Feng Zhu. "Modeling the clustering strength of connected autonomous vehicles and its impact on mixed traffic capacity." Communications in Transportation Research 4 (2024): 100151. [Paper](https://doi.org/10.1016/j.commtr.2024.100151) | [Code](https://github.com/Jerry-zpl/API)
 
 Conferences
 ======
