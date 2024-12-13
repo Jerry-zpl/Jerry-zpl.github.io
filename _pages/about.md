@@ -11,13 +11,13 @@ Peilin Zhao is a Ph.D. candidate at [School of Civil and Environmental Engineeri
 
 Education
 ======
-Ph.D. Candidate of Civil and Environmental Engineering, School of Civil and Environmental Engineering, Nanyang Technological University (2022 - Present).
+Ph.D. Candidate of Civil and Environmental Engineering, Nanyang Technological University (2022 - Present).
 
-M.Eng. in Transportation Engineering, School of Civil and Environmental Engineering, University of California, Berkeley (2021 - 2022).
+M.Eng. in Transportation Engineering, University of California, Berkeley (2021 - 2022).
 
-B.Eng., Transportation Equipment and Control Engineering, School of Transportation Science and Engineering, Harbin Institute of Technology (2017 - 2021).
+B.Eng. in Transportation Equipment and Control Engineering, Harbin Institute of Technology (2017 - 2021).
 
-B.Mgt. (Minor), Big Data Management and Application, School of Management, Harbin Institute of Technology (2018 - 2021).
+B.Mgt. (Minor) in Big Data Management and Application, Harbin Institute of Technology (2018 - 2021).
 
 Publications
 ======
