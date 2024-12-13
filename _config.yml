@@ -24,9 +24,9 @@ author:
   avatar           : "ZPL.JPG"
   name             : "Peilin Zhao 赵沛霖"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student"
+  bio              : "PhD student in NTU"
   location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  employer         : #"Nanyang Technological University"
   uri              : # URL
   email            : "peilin001@e.ntu.edu.sg" 
 
