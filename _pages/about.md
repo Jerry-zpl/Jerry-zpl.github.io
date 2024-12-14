@@ -25,7 +25,6 @@ Publications
 
 Conferences
 ======
-
 (2024-07) Presentation at [13th APTE](https://apte2024.sg/) on accepted paper "On the Impact of the Clustering Strength of Connected and Autonomous Vehicles in Mixed Traffic" [Slides](http://jerry-zpl.github.io/files/2024APTE_ZPL.pdf) | [Photo](https://jerry-zpl.github.io/portfolio/APTE2024)
 
 (2024-01) Presentation at 103rd TRB Annual Meeting on accepted paper "Autocorrelation-based Platooning Intensity for Connected and Autonomous Vehicles in a Mixed Traffic Environment" [Poster](http://jerry-zpl.github.io/files/TRB_poster.pdf)
