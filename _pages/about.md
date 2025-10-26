@@ -19,6 +19,10 @@ B.Eng. in Transportation Equipment and Control Engineering, [School of Transport
 
 B.Mgt. (Minor) in Big Data Management and Application, [School of Management](https://som.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/) (2018 - 2021).
 
+Experience
+======
+Research Associate, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2025 - Present)
+
 Publications
 ======
 **Zhao, Peilin**, Yiik Diew Wong, and Feng Zhu. "A platoon-centric approach to the capacity analysis of mixed traffic comprising connected and autonomous vehicles." Transportation Research Part C: Emerging Technologies 177 (2025): 105170. [Paper](https://doi.org/10.1016/j.trc.2025.105170) \| [Code](https://github.com/Jerry-zpl/Platoon-Centric-Capacity-Analysis) \| [Web](https://jerry-zpl.github.io/publication/2025-TRC-105170)
