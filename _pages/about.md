@@ -9,6 +9,10 @@ redirect_from:
 
 Peilin Zhao is a Ph.D. candidate at [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by [Prof. Zhu Feng](https://dr.ntu.edu.sg/cris/rp/rp00740) and [Prof. Wong Yiik Diew](https://dr.ntu.edu.sg/cris/rp/rp00667). Peilin is interested in traffic flow theory. He is currently working on the mixed traffic modeling composed of Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).
 
+Experience
+======
+Research Associate, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2025 - Present)
+
 Education
 ======
 Ph.D. Candidate of Civil and Environmental Engineering, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2022 - Present).
@@ -18,10 +22,6 @@ M.Eng. in Transportation Engineering, [School of Civil and Environmental Enginee
 B.Eng. in Transportation Equipment and Control Engineering, [School of Transportation Science and Engineering](https://jtxy.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/) (2017 - 2021).
 
 B.Mgt. (Minor) in Big Data Management and Application, [School of Management](https://som.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/) (2018 - 2021).
-
-Experience
-======
-Research Associate, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2025 - Present)
 
 Publications
 ======
