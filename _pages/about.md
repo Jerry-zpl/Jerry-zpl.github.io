@@ -34,10 +34,10 @@ Publications
 Conferences
 ======
 
-(2024-09) Presentation at [4th NGTS](https://nextranspurdue.wixsite.com/ngts2024) on accepted paper "Probability Distribution of Connected and Autonomous Vehicle Platoon Size in a Mixed Traffic Environment" [Slides](http://jerry-zpl.github.io/files/NGTS-4_ZPL.pdf) \| [Paper](https://doi.org/10.1016/j.tre.2025.104130)
+(2024-09) Presentation at the 4th Annual Next-Generation Transport Systems Conference ([NGTS-4](https://nextranspurdue.wixsite.com/ngts2024)) on accepted paper "Probability Distribution of Connected and Autonomous Vehicle Platoon Size in a Mixed Traffic Environment" [Slides](http://jerry-zpl.github.io/files/NGTS-4_ZPL.pdf) \| [Paper](https://doi.org/10.1016/j.tre.2025.104130)
 
-(2024-07) Presentation at [13th APTE](https://apte2024.sg/) on accepted paper "On the Impact of the Clustering Strength of Connected and Autonomous Vehicles in Mixed Traffic" [Slides](http://jerry-zpl.github.io/files/2024APTE_ZPL.pdf) \| [Photo](https://jerry-zpl.github.io/portfolio/APTE2024) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
+(2024-07) Presentation at the 13th Asia-Pacific Conference on Transportation and the Environment (APTE2024) on accepted paper "On the Impact of the Clustering Strength of Connected and Autonomous Vehicles in Mixed Traffic" [Slides](http://jerry-zpl.github.io/files/2024APTE_ZPL.pdf) \| [Photo](https://jerry-zpl.github.io/portfolio/APTE2024) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
 
-(2024-01) Presentation at 103rd TRB Annual Meeting on accepted paper "Autocorrelation-based Platooning Intensity for Connected and Autonomous Vehicles in a Mixed Traffic Environment" [Poster](http://jerry-zpl.github.io/files/TRB_poster.pdf) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
+(2024-01) Presentation at the 103rd Annual Meeting of Transportation Research Board (TRB2024) on accepted paper "Autocorrelation-based Platooning Intensity for Connected and Autonomous Vehicles in a Mixed Traffic Environment" [Poster](http://jerry-zpl.github.io/files/TRB_poster.pdf) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
 
 &nbsp;
