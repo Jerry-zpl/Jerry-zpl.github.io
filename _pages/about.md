@@ -40,7 +40,7 @@ Publications
 
 </div>
 
-<br><br><br>
+<br><br>
 
 Conferences
 ======
