@@ -7,21 +7,47 @@ redirect_from:
   - /about.html
 ---
 
-Peilin Zhao is a Ph.D. candidate at [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by [Prof. Zhu Feng](https://dr.ntu.edu.sg/cris/rp/rp00740) and [Prof. Wong Yiik Diew](https://dr.ntu.edu.sg/cris/rp/rp00667). Peilin is interested in traffic flow theory. He is currently working on the mixed traffic modeling composed of Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).
+<div style="text-align: justify;">
+
+Peilin Zhao is a Ph.D. candidate at <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, supervised by <a href="https://dr.ntu.edu.sg/cris/rp/rp00740">Prof. Zhu Feng</a> and <a href="https://dr.ntu.edu.sg/cris/rp/rp00667">Prof. Wong Yiik Diew</a>. Peilin is interested in traffic flow theory. He is currently working on the mixed traffic modeling composed of Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).
+
+</div>
+
+<br>
 
 Experience
 ======
-Research Associate, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2025 - Present)
+
+<div style="text-align: justify;">
+
+<b>Research Associate</b>, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2025 - Present).
+
+</div>
+
+<br>
 
 Education
 ======
-Ph.D. Candidate of Civil and Environmental Engineering, [School of Civil and Environmental Engineering](https://www.ntu.edu.sg/cee), [Nanyang Technological University](https://www.ntu.edu.sg/) (2022 - Present).
 
-M.Eng. in Transportation Engineering, [School of Civil and Environmental Engineering](https://ce.berkeley.edu/), [University of California, Berkeley](https://www.berkeley.edu/) (2021 - 2022).
+<div style="text-align: justify;">
 
-B.Eng. in Transportation Equipment and Control Engineering, [School of Transportation Science and Engineering](https://jtxy.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/) (2017 - 2021).
+<b>Ph.D. Candidate</b> of Civil and Environmental Engineering, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2022 - Present).
 
-B.Mgt. (Minor) in Big Data Management and Application, [School of Management](https://som.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/) (2018 - 2021).
+<br><br>
+
+<b>M.Eng.</b> in Transportation Engineering, <a href="https://ce.berkeley.edu/">School of Civil and Environmental Engineering</a>, <a href="https://www.berkeley.edu/">University of California, Berkeley</a> (2021 - 2022).
+
+<br><br>
+
+<b>B.Eng.</b> in Transportation Equipment and Control Engineering, <a href="https://jtxy.hit.edu.cn/">School of Transportation Science and Engineering</a>, <a href="https://www.hit.edu.cn/">Harbin Institute of Technology</a> (2017 - 2021).
+
+<br><br>
+
+<b>B.Mgt. (Minor)</b> in Big Data Management and Application, <a href="https://som.hit.edu.cn/">School of Management</a>, <a href="https://www.hit.edu.cn/">Harbin Institute of Technology</a> (2018 - 2021).
+
+</div>
+
+<br>
 
 Publications
 ======
