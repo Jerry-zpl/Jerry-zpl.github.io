@@ -34,13 +34,15 @@ Publications
 Conferences
 ======
 
-<div style="text-align: justify">
+<div style="text-align: justify;">
 
-(2024-09) Presentation at the 4th Annual Next-Generation Transport Systems Conference ([NGTS-4](https://nextranspurdue.wixsite.com/ngts2024)) on accepted paper "Probability Distribution of Connected and Autonomous Vehicle Platoon Size in a Mixed Traffic Environment" [Slides](http://jerry-zpl.github.io/files/NGTS-4_ZPL.pdf) \| [Paper](https://doi.org/10.1016/j.tre.2025.104130)
+(2024-09) Presentation at the 4<sup>th</sup> Annual Next-Generation Transport Systems Conference (<a href="https://nextranspurdue.wixsite.com/ngts2024">NGTS-4</a>) on accepted paper "Probability Distribution of Connected and Autonomous Vehicle Platoon Size in a Mixed Traffic Environment" <a href="http://jerry-zpl.github.io/files/NGTS-4_ZPL.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.tre.2025.104130">[Paper]</a>
+<br><br>
 
-(2024-07) Presentation at the 13th Asia-Pacific Conference on Transportation and the Environment (APTE2024) on accepted paper "On the Impact of the Clustering Strength of Connected and Autonomous Vehicles in Mixed Traffic" [Slides](http://jerry-zpl.github.io/files/2024APTE_ZPL.pdf) \| [Photo](https://jerry-zpl.github.io/portfolio/APTE2024) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
+(2024-07) Presentation at the 13<sup>th</sup> Asia-Pacific Conference on Transportation and the Environment (APTE2024) on accepted paper "On the Impact of the Clustering Strength of Connected and Autonomous Vehicles in Mixed Traffic" <a href="http://jerry-zpl.github.io/files/2024APTE_ZPL.pdf">[Slides]</a> | <a href="https://jerry-zpl.github.io/portfolio/APTE2024">[Photo]</a> | <a href="https://doi.org/10.1016/j.commtr.2024.100151">[Paper]</a>
+<br><br>
 
-(2024-01) Presentation at the 103rd Annual Meeting of Transportation Research Board (TRB2024) on accepted paper "Autocorrelation-based Platooning Intensity for Connected and Autonomous Vehicles in a Mixed Traffic Environment" [Poster](http://jerry-zpl.github.io/files/TRB_poster.pdf) \| [Paper](https://doi.org/10.1016/j.commtr.2024.100151)
+(2024-01) Presentation at the 103<sup>rd</sup> Annual Meeting of Transportation Research Board (TRB2024) on accepted paper "Autocorrelation-based Platooning Intensity for Connected and Autonomous Vehicles in a Mixed Traffic Environment" <a href="http://jerry-zpl.github.io/files/TRB_poster.pdf">[Poster]</a> | <a href="https://doi.org/10.1016/j.commtr.2024.100151">[Paper]</a>
 
 </div>
 
