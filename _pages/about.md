@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-Peilin Zhao is a Ph.D. candidate at <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, supervised by <a href="https://dr.ntu.edu.sg/cris/rp/rp00740">Prof. Zhu Feng</a> and <a href="https://dr.ntu.edu.sg/cris/rp/rp00667">Prof. Wong Yiik Diew</a>. Peilin is interested in traffic flow theory. He is currently working on the mixed traffic modeling composed of Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).
+I am a Research Fellow at the <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a>. I received my Ph.D. in 2026, advised by <a href="https://dr.ntu.edu.sg/cris/rp/rp00740">Prof. Zhu Feng</a> and <a href="https://dr.ntu.edu.sg/cris/rp/rp00667">Prof. Wong Yiik Diew</a>. My primary research focuses on traffic flow theory, specifically the modeling of mixed traffic environments comprising Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).
 
 </div>
 
@@ -20,7 +20,11 @@ Experience
 
 <div style="text-align: justify;">
 
-<b>Research Associate</b>, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2025 - Present).
+<b>Research Fellow</b>, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2026 - Present).
+
+<br><br>
+
+<b>Research Associate</b>, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2025 - 2026).
 
 </div>
 
@@ -31,7 +35,7 @@ Education
 
 <div style="text-align: justify;">
 
-<b>Ph.D. Candidate</b> of Civil and Environmental Engineering, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2022 - Present).
+<b>Ph.D.</b> in Transportation Engineering, <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a> (2022 - 2026).
 
 <br><br>
 
