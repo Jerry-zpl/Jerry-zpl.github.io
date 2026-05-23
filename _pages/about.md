@@ -77,6 +77,10 @@ Conferences
 
 <div style="text-align: justify;">
 
+(2026-05) Presentation at the 5<sup>th</sup> Annual Next-Generation Transport Systems Conference (<a href="https://nextranspurdue.wixsite.com/ngts5">NGTS-5</a>) on accepted paper "Platoon-Centric Framework for Mixed Traffic Capacity Modeling" <a href="http://jerry-zpl.github.io/files/NGTS-5_ZPL.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.trc.2025.105170">[Paper]</a>
+
+<br><br>
+
 (2024-09) Presentation at the 4<sup>th</sup> Annual Next-Generation Transport Systems Conference (<a href="https://nextranspurdue.wixsite.com/ngts2024">NGTS-4</a>) on accepted paper "Probability Distribution of Connected and Autonomous Vehicle Platoon Size in a Mixed Traffic Environment" <a href="http://jerry-zpl.github.io/files/NGTS-4_ZPL.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.tre.2025.104130">[Paper]</a>
 
 <br><br>
