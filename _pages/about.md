@@ -94,7 +94,7 @@ Conferences
 
 <br><br>
 
-(2024-12) Presentation at the 28<sup>th</sup> International Conference of Hong Kong Society for Transportation Studies (HKSTS2024) (<a href="www.hksts.org/conf24b.htm">HKSTS2024</a>) on accepted paper "Hysteresis Phenomenon in Traffic Safety Analysis" <a href="http://jerry-zpl.github.io/files/HKSTS2024.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.tre.2025.104130">[Paper]</a>
+(2024-12) Presentation at the 28<sup>th</sup> International Conference of Hong Kong Society for Transportation Studies (<a href="www.hksts.org/conf24b.htm">HKSTS2024</a>) on accepted paper "Hysteresis Phenomenon in Traffic Safety Analysis" <a href="http://jerry-zpl.github.io/files/HKSTS2024.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.tre.2025.104130">[Paper]</a>
 
 <br><br>
 
