@@ -12,8 +12,8 @@ redirect_from:
 I am a Research Fellow at the <a href="https://www.ntu.edu.sg/cee">School of Civil and Environmental Engineering</a>, <a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a>. I received my Ph.D. from NTU in 2026, under the supervision of <a href="https://dr.ntu.edu.sg/cris/rp/rp00740">Prof. Zhu Feng</a> and <a href="https://dr.ntu.edu.sg/cris/rp/rp00667">Prof. Wong Yiik Diew</a>. My research centers on traffic flow theory and traffic safety analysis, and currently spans two main directions:
 
 <ol>
-  <li><strong>Traffic hysteresis and safety.</strong> I investigate the hysteresis phenomenon in traffic safety analysis.</li>
-  <li><strong>Mixed traffic modeling and analysis.</strong> I focus on modeling mixed traffic environments comprising Connected and Autonomous Vehicles (CAVs) and Human-driven Vehicles (HVs).</li>
+  <li><strong>Hysteresis phenomenon in traffic safety analysis.</strong> </li>
+  <li><strong>Mixed traffic modeling and analysis.</strong> </li>
 </ol>
 
 </div>
