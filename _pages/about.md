@@ -85,6 +85,10 @@ Conferences
 
 <div style="text-align: justify;">
 
+(2026-07) Presentation at the 26<sup>th</sup> COTA International conference of Transportation Professionals (<a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP2026</a>) on accepted paper "Hysteresis Phenomenon in Traffic Safety Analysis: Identification, Quantification, and Evaluation" <a href="http://jerry-zpl.github.io/files/CICTP2026.pdf">[Posters]</a> | <a href="https://doi.org/10.1016/j.trc.2025.105806">[Paper]</a>
+
+<br><br>
+
 (2026-05) Presentation at the 5<sup>th</sup> Annual Next-Generation Transport Systems Conference (<a href="https://nextranspurdue.wixsite.com/ngts5">NGTS-5</a>) on accepted paper "Platoon-Centric Framework for Mixed Traffic Capacity Modeling" <a href="http://jerry-zpl.github.io/files/NGTS-5_ZPL.pdf">[Slides]</a> | <a href="https://doi.org/10.1016/j.trc.2025.105170">[Paper]</a>
 
 <br><br>
