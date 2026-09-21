@@ -85,7 +85,7 @@ Conferences
 
 <div style="text-align: justify;">
 
-(2026-07) Presentation at the 26<sup>th</sup> COTA International conference of Transportation Professionals (<a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP2026</a>) on accepted paper "Hysteresis Phenomenon in Traffic Safety Analysis: Identification, Quantification, and Evaluation" <a href="http://jerry-zpl.github.io/files/CICTP2026.pdf">[Posters]</a> | <a href="https://doi.org/10.1016/j.trc.2025.105806">[Paper]</a>
+(2026-07) Presentation at the 26<sup>th</sup> COTA International conference of Transportation Professionals (<a href="https://cictp2026.sdjtu.edu.cn/index.htm">CICTP2026</a>) on accepted paper "Hysteresis Phenomenon in Traffic Safety Analysis: Identification, Quantification, and Evaluation" <a href="http://jerry-zpl.github.io/files/CICTP2026.pdf">[Poster]</a> | <a href="https://doi.org/10.1016/j.trc.2026.105806">[Paper]</a>
 
 <br><br>
 
